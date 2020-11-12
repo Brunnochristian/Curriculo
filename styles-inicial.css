@@ -1,0 +1,81 @@
+section {
+    width: 100%;
+    display: inline-flex;
+    flex-direction: row;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#curriculo {
+    text-align: center;
+
+
+}
+
+/* Header */
+#header {
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 0px 0px 0px 10px;
+    width: 20%
+}
+
+/* Objetivo */
+#objetivo {
+    height: 160px;
+    line-height: 30px;
+}
+#objetivo div {
+    width: 50%;
+}
+
+/* Formação */
+#formação {
+    height: 195px;
+    line-height: 30px;
+}
+#formação div {    
+    width: 50%;
+}
+
+/* Idiomas */
+#idiomas {
+    height: 100px;
+    line-height: 30px;
+}
+#idioma div {    
+    width: 50%;
+}
+
+/* Qualificações */
+#qualificações {
+    height: 190px;
+    line-height: 30px;
+}
+#qualificações div {    
+    width: 50%;
+}
+
+/* Qualidades */
+#qualidades {
+    height: 195px;
+    line-height: 30px;
+}
+#qualidades div {    
+    width: 50%;
+}
+
+/* Experiência */
+#experiência {
+    height: 220px;
+    line-height: 30px;
+}
+.inicio data {
+    height: 100px;
+    line-height: 3opx;
+    font-size: 60px;
+
+}
+
+#experiência div {    
+    width: 50%;
+}
